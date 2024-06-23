@@ -1,0 +1,1 @@
+## Badar Password Generator
